@@ -54,7 +54,3 @@ ai-skills-ar/
 ## المساهمة
 
 لإضافة مهارة جديدة، أنشئ مجلداً باسمها وأضف ملف `SKILL.md` بداخله، ثم أرسل *Pull Request*.
-
----
-
-[MIT License](./LICENSE)
