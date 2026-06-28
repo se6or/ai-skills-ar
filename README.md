@@ -12,6 +12,16 @@
 
 ---
 
+## المعاينة
+
+<p align="center">
+  <img src="assets/preview-1.jpg" width="45%" alt="معاينة 1" />
+  &nbsp;&nbsp;
+  <img src="assets/preview-2.jpg" width="45%" alt="معاينة 2" />
+</p>
+
+---
+
 ## الاستخدام
 
 حمل او انسخ محتوى ملف `SKILL.md` والصقه في بداية أي محادثة مع نموذج الذكاء الاصطناعي الذي تستخدمه.
@@ -45,6 +55,9 @@ messages = [
 ```
 ai-skills-ar/
 ├── README.md
+├── assets/
+│   ├── preview-1.jpg
+│   └── preview-2.jpg
 └── baghdadi-pro/
     └── SKILL.md
 ```
